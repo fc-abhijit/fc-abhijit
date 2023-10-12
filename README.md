@@ -2,8 +2,7 @@
 
 I'm a passionate software engineer specializing in Python and Go. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Go and Python
+- 🌱 I’m currently learning Go and Python projects.
 - 🤔 I’m looking for help with Python and Go projects
 - 📫 How to reach me: abhijitbonik@gmail.com
 - 😄 Pronouns: [He/Him]
