@@ -4,7 +4,6 @@ I'm a passionate software engineer specializing in Python and Go. Welcome to my 
 
 - 🌱 I’m currently learning Go and Python projects.
 - 🤔 I’m looking for help with Python and Go projects
-- 📫 How to reach me: abhijitbonik@gmail.com
 - 😄 Pronouns: [He/Him]
 
 ## Technologies & Tools
@@ -27,10 +26,5 @@ I'm a passionate software engineer specializing in Python and Go. Welcome to my 
 
 [![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs)](https://github.com/yourusername)
 
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/abhijitbonik/)
-- [Twitter](https://twitter.com/abhijitbonik)
-- [Personal Website](https://abhijitbonik.github.io)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on something exciting!
